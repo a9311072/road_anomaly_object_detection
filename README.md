@@ -1,4 +1,4 @@
-# Object-Level Unknown Obstacle Detection, IROS 2023
+# Road Anomaly Unknown Obstacle Object Detection
 ![image](./figures/thumbnail.png)
 
 ### Network Architecture
@@ -6,6 +6,15 @@
 
 ### Evaluation
 ![image](./figures/evaluation.png)
+
+### Citation
+```
+@article{IEEE_IROS_2023,
+  title={Object-Level Unknown Obstacle Detection},
+  author={Chuan-Yuan Huang, Cheng-Tsung Chen, Yu-An Chen, and Kuan-Wen Chen*},
+  year={2023}
+}
+```
 
 ### Reference
 - Detecting the Unexpected via Image Resynthesis, ICCV 2019
