@@ -1,7 +1,7 @@
 # Road Anomaly Unknown Obstacle Object Detection
 ![image](./figures/thumbnail.png)
 
-### Network Architecture
+### Neural Network Architecture
 ![image](./figures/network_architecture.png)
 
 ### Evaluation
